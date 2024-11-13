@@ -26,12 +26,6 @@ double func_a(double x, double c) {
     return (c != 0) ? (pow(x, 3) / c) + 0; // a= x*3/c
 }
 
-double func_b(double x, double y, double c) {//b = x+ysqrt(c)
-
-}
-for (int i = 0; i < k; i++)
-    if (a[i] > 5)
-        sum += a[i];
 
 
 
